@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicioIsa;
+package ejercicio;
 
 /**
  *
  * @author Isa
  */
-public class EjercicioIsa {
+public class ejercicioIsa {
     public static void main(String[] args) {
        int num = 20;
        
