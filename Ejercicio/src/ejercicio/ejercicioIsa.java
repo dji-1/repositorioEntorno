@@ -20,6 +20,7 @@ public class ejercicioIsa {
                 System.out.println(num);
             }
             num++;
+            System.out.println("Modificado por Diego");
         }
     }
 }
