@@ -10,5 +10,8 @@ package ejercicio;
  * @author 1DAM
  */
 public class ejercicio3 {
-    private int ruedas;
+     public static void main(String[] args) {
+    
+        System.out.println("Isa estuvo aqui");
+     }
 }

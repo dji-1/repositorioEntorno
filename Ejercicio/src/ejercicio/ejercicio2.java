@@ -10,11 +10,9 @@ package ejercicio;
  * @author 1DAM
  */
 public class ejercicio2 {
-    private int patas;
-    private String color;
-    ejercicio2(int patas, String color){
-        this.patas = patas;
-        this.color=color;
+    public static void main(String[] args) {
+    
+        System.out.println("Isa estuvo aqui");
     
     }
 }
